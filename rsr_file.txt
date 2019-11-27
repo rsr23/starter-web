@@ -1,1 +1,2 @@
-this file is added from local machine to the "sterter-web" project.
+deleted and added two new lines.
+second line.
